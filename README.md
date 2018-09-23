@@ -13,6 +13,8 @@ More details:
 * 33 contains 3 two times and is divisible by 3, so we print  FooFooFoo
 * 27 is divisible by 3 and contains 7, so we print "FooQix
 
-#How to execute
+# How to execute
+
 mvn clean package
+
 mvn exec:java
