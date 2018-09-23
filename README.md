@@ -1,5 +1,4 @@
 # kata
-FooBarQix Kata
 This is a program that prints numbers from 1 to 100, one number per line. For each
 printed number, it uses the following rules:
 if the number is divisible by 3 or contains 3, replace 3 by "Foo";
