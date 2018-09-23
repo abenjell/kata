@@ -14,3 +14,5 @@ More details:
 * 27 is divisible by 3 and contains 7, so we print "FooQix
 
 #How to execute
+mvn clean package
+mvn exec:java
